@@ -3,8 +3,8 @@ This lab introduces	image-based	perception and control using the onboard camera.
 
 # Techniques
 * use Waffle to see the object in Gazebo
-• Insert objects to segment the colors and masking their images
-• Maintain the distance with obstacle and reduce the error of centroid
+* Insert objects to segment the colors and masking their images
+* Maintain the distance with obstacle and reduce the error of centroid
 
 # Procedures
 * Mastered the integration of real-time computer vision with ROS 2 by utilizing the CvBridge library to seamlessly convert incoming simulated camera images into NumPy arrays compatible with OpenCV.
